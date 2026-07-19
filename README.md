@@ -1,2 +1,1 @@
-# Python
-Learning Python
+![alt text](Pics/Python.png)
